@@ -7,7 +7,7 @@ I build small lab-style projects to learn by doing—working with **IoT sensors*
 ---
 
 ## 🔗 Links
-- GitHub: https://github.com/Simrandeep-Ghost
+- GitHub: https://github.com/Simrandeep-Ghost.github.io
 - Email: your.email@example.com
 - LinkedIn: [https://www.linkedin.com/in/your-handle/](https://www.linkedin.com/in/simrandeep-singh-47b24a352/)
 - Resume: (add link)
